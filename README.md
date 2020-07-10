@@ -39,7 +39,7 @@ I was interested in using Stackoverflow Developer Survey Data to better understa
 **2020/survey_results_public.csv**: Stackoverflow's 2020 Annual Developer Survey data. </br>
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@ericvenarusso2/what-are-the-most-common-programming-languages-used-in-brazil-8d630b76df2f)
+The main findings of the code can be found at the post available [here](https://medium.com/@algethamishahad/most-common-programming-languages-used-in-united-states-ddd059f6a6cc?sk=7b03e2c1dac2bdc1b92fc617c8291174)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
