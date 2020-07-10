@@ -1,4 +1,4 @@
-# Write a Data Science blog post
+# Exploratory Analysis
 Udacity Data Scientist Nanodegree Project.
 
 ### Table of Contents
@@ -19,10 +19,10 @@ You will need to download Stackoverflow’s 2019 and 2020 Annual Developer Surve
 To move the downloaded files to the specific folder, you can execute. </br>
 
 1. Stackoverflow’s 2019 data </br>
-`Write-a-Data-Science-Blog-Post/2017/survey_results_public.csv `</br>
+`Exploratory-Analysis/survey_results_public_2019.csv `</br>
 
 2. Stackoverflow’s 2020 data </br>
-` Write-a-Data-Science-Blog-Post/2020/survey_results_public.csv `</br>
+` Write-a-Data-Science-Blog-Post/2020/survey_results_public_2020.csv `</br>
 
 ## Project Motivation <a name="motivation"></a>
 
@@ -35,8 +35,8 @@ I was interested in using Stackoverflow Developer Survey Data to better understa
 ## File Description <a name="files"></a>
 
 **exploratory_analysis.ipynb**: Notebook containing the data analysis. </br>
-**2019/survey_results_public.csv**: Stackoverflow's 2019 Annual Developer Survey data. </br>
-**2020/survey_results_public.csv**: Stackoverflow's 2020 Annual Developer Survey data. </br>
+**survey_results_public_2019.csv**: Stackoverflow's 2019 Annual Developer Survey data. </br>
+**survey_results_public_2020.csv**: Stackoverflow's 2020 Annual Developer Survey data. </br>
 
 ## Results <a name="results"></a>
 The main findings of the code can be found at the post available [here](https://medium.com/@algethamishahad/most-common-programming-languages-used-in-united-states-ddd059f6a6cc?sk=7b03e2c1dac2bdc1b92fc617c8291174)
